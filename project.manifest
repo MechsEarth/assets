@@ -5,14 +5,6 @@
     "version": "2.0.4",
     "engineVersion": "3.15",
     "assets": {
-        ".gitattributes": {
-            "md5": "50c716c012886add22d58c8ec87a1758",
-            "size": 8
-        },
-        ".gitignore": {
-            "md5": "3b121da4db64aa59864e9ed46fa68d0a",
-            "size": 5
-        },
         "CNAME": {
             "md5": "743a03a007dc3ee0e66c656f50bbc2a7",
             "size": 15
